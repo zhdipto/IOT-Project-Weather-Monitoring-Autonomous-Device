@@ -13,7 +13,7 @@ Hardware:
 7. Breadboard
 8. Jumper wires
 
-Software & CLoud Service:
+Software & Cloud Service:
 1. Arduino IDE Download from: https://www.arduino.cc/en/software
 2. ThingSpeak (for cloud service) https://thingspeak.mathworks.com/
 # Example Image
