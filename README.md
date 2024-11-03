@@ -4,15 +4,16 @@ Weather Monitoring Autonomous Device(WMAD) is a customizable and affordable weat
 WMAD is a weather station that can measure temperature, humidity, and atmospheric pressure. This project combines Arduino technologies with with multiple sensors (DHT11 Sensor,BMP180 Sensor,MQ-135 Sensor)to monitor temperature, humidity, atmospheric pressure, and air quality, delivering data to an LCD display and to a cloud server. The WMAD is designed for flexibility, making it ideal for both personal and educational applications, as well as research purposes.
 # Requirements
 Hardware:
-● Arduino uno
-● DHT11 sensor
-● BMP 180 sensor
-● esp 01/esp8266
-● MQ -135 sensor
-● LCD Display
-● Breadboard
-● Jumper wires
-Software & cloud service:
+1. Arduino Uno
+2. DHT11 sensor
+3. BMP 180 sensor
+4. esp 01/esp8266
+5. MQ -135 sensor
+6. LCD Display
+7. Breadboard
+8. Jumper wires
+
+Software & CLoud Service:
 1. Arduino IDE Download from: https://www.arduino.cc/en/software
 2. ThingSpeak (for cloud service) https://thingspeak.mathworks.com/
 # Example Image
